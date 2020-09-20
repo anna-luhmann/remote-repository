@@ -1,3 +1,4 @@
+Bob adds a line at the beginning!
 This file is Anna.txt
 Alice wrote this line
 Bob adds a line to the end of a file
